@@ -1,0 +1,34 @@
+{
+    "name": "@glowleaf/voronoifracture",
+    "version": "1.0.0",
+    "description": "3D Voronoi fracturing system for Three.js",
+    "main": "voronoiFracture.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "three.js",
+        "3d",
+        "voronoi",
+        "fracture",
+        "shatter",
+        "physics"
+    ],
+    "author": "glowleaf",
+    "license": "CC0-1.0",
+    "dependencies": {
+        "three": "^0.160.0"
+    },
+    "peerDependencies": {
+        "three": ">=0.160.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/glowleaf/voronoifracture.git"
+    },
+    "bugs": {
+        "url": "https://github.com/glowleaf/voronoifracture/issues"
+    },
+    "homepage": "https://github.com/glowleaf/voronoifracture#readme"
+} 
